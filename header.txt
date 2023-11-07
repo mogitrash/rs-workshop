@@ -1,3 +1,4 @@
 Hello world!
-
-Change from <main> - BREAKING CHANGES
+Change from <main>
+Text from main: BREAKING CHANGES
+Changes from <test>
